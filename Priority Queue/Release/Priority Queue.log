@@ -1,0 +1,23 @@
+﻿  minHeapLab.cpp
+\\mac\home\documents\school\cs3\priority queue\priority queue\minHeap.h(46): warning C4018: '>=': signed/unsigned mismatch
+  \\mac\home\documents\school\cs3\priority queue\priority queue\minHeap.h(45): note: while compiling class template member function 'void minHeap<double>::bubbleDown(int)'
+  \\mac\home\documents\school\cs3\priority queue\priority queue\minHeap.h(119): note: see reference to function template instantiation 'void minHeap<double>::bubbleDown(int)' being compiled
+  \\mac\home\documents\school\cs3\priority queue\priority queue\minHeap.h(95): note: while compiling class template member function 'void minHeap<double>::insert(THING)'
+          with
+          [
+              THING=double
+          ]
+  minHeapLab.cpp(37): note: see reference to function template instantiation 'void minHeap<double>::insert(THING)' being compiled
+          with
+          [
+              THING=double
+          ]
+  minHeapLab.cpp(35): note: see reference to class template instantiation 'minHeap<double>' being compiled
+\\mac\home\documents\school\cs3\priority queue\priority queue\minHeap.h(63): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Finished generating code
+  2 of 177 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Priority Queue.vcxproj -> \\Mac\Home\Documents\School\CS3\Priority Queue\Release\Priority Queue.exe
+  Priority Queue.vcxproj -> \\Mac\Home\Documents\School\CS3\Priority Queue\Release\Priority Queue.pdb (Full PDB)
